@@ -36,7 +36,7 @@ require (
 	github.com/wealdtech/go-eth2-wallet-store-scratch v1.7.0
 	github.com/wealdtech/go-eth2-wallet-types/v2 v2.10.0
 	github.com/wealdtech/go-string2eth v1.2.0
-	golang.org/x/text v0.4.0
+	golang.org/x/text v0.7.0
 )
 
 require (
@@ -76,9 +76,9 @@ require (
 	github.com/wealdtech/eth2-signer-api v1.7.1 // indirect
 	github.com/wealdtech/go-indexer v1.0.0 // indirect
 	golang.org/x/crypto v0.3.0 // indirect
-	golang.org/x/net v0.2.0 // indirect
+	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4 // indirect
-	golang.org/x/sys v0.3.0 // indirect
+	golang.org/x/sys v0.5.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	google.golang.org/genproto v0.0.0-20220930163606-c98284e70a91 // indirect
 	google.golang.org/grpc v1.49.0 // indirect
